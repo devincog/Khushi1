@@ -65,7 +65,7 @@ $(window).on("load", function () {
 
   const typed = new Typed("#text", {
     strings: [
-      "Happy Women's Day Khushi, This is one of my favourite days of the year cuz it's one the days i celebrate one of the most beautiful woman in the world. This is one of those days where I celebrate your presence in my life. So here's something I wanted to give you for sometime.<img src='img/\poem.png'> <b>Keep Smiling Mama. Today is your day. Happy Women's Day once again!</b>",
+      "Happy Women's Day Khushi, This is one of my favourite days of the year cuz it's one the days i celebrate one of the most beautiful woman in the world. This is one of those days where I celebrate your presence in my life. So here's something I wanted to give you for sometime.<img src='img/\poem.png'> <b>Keep Smiling Mahak. Today is your day. Happy Women's Day once again!</b>",
     ],
     startDelay: 4500,
     typeSpeed: 92,
